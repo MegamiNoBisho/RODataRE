@@ -1,2 +1,10 @@
-# Auto detect text files and perform LF normalization
 * text=auto
+*.lua text eol=crlf
+*.lub text eol=crlf
+*.txt text eol=crlf
+*.png binary
+*.jpg binary
+*.bmp binary
+*.spr binary
+*.act binary
+*.wav binary
